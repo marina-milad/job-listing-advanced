@@ -1,0 +1,7 @@
+#jobswrapper{
+    width: 75%;
+    height: 90%;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
