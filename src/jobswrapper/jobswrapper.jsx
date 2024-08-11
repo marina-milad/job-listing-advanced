@@ -6,7 +6,7 @@ function jobswrapper () {
         {
           "id": 1,
           "company": "Photosnap",
-          "logo": "/public/assets/photosnap.svg",
+          "logo": "/assets/photosnap.svg",
           "new": true,
           "featured": true,
           "position": "Senior Frontend Developer",
@@ -21,7 +21,7 @@ function jobswrapper () {
         {
           "id": 2,
           "company": "Manage",
-          "logo": "/public/assets/manage.svg",
+          "logo": "/assets/manage.svg",
           "new": true,
           "featured": true,
           "position": "Fullstack Developer",
@@ -36,7 +36,7 @@ function jobswrapper () {
         {
           "id": 3,
           "company": "Account",
-          "logo": "/public/assets/account.svg",
+          "logo": "/assets/account.svg",
           "new": true,
           "featured": false,
           "position": "Junior Frontend Developer",
@@ -51,7 +51,7 @@ function jobswrapper () {
         {
           "id": 4,
           "company": "MyHome",
-          "logo": "/public/assets/myhome.svg",
+          "logo": "/assets/myhome.svg",
           "new": false,
           "featured": false,
           "position": "Junior Frontend Developer",
@@ -66,7 +66,7 @@ function jobswrapper () {
         {
           "id": 5,
           "company": "Loop Studios",
-          "logo": "/public/assets/loop-studios.svg",
+          "logo": "/assets/loop-studios.svg",
           "new": false,
           "featured": false,
           "position": "Software Engineer",
@@ -81,7 +81,7 @@ function jobswrapper () {
         {
           "id": 6,
           "company": "FaceIt",
-          "logo": "/public/assets/faceit.svg",
+          "logo": "/assets/faceit.svg",
           "new": false,
           "featured": false,
           "position": "Junior Backend Developer",
@@ -96,7 +96,7 @@ function jobswrapper () {
         {
           "id": 7,
           "company": "Shortly",
-          "logo": "/public/assets/shortly.svg",
+          "logo": "/assets/shortly.svg",
           "new": false,
           "featured": false,
           "position": "Junior Developer",
@@ -111,7 +111,7 @@ function jobswrapper () {
         {
           "id": 8,
           "company": "Insure",
-          "logo": "/public/assets/insure.svg",
+          "logo": "/assets/insure.svg",
           "new": false,
           "featured": false,
           "position": "Junior Frontend Developer",
@@ -126,7 +126,7 @@ function jobswrapper () {
         {
         "id": 9,
         "company": "Eyecam Co.",
-        "logo": "/public/assets/eyecam-co.svg",
+        "logo": "/assets/eyecam-co.svg",
         "new": false,
         "featured": false,
         "position": "Full Stack Engineer",
@@ -141,7 +141,7 @@ function jobswrapper () {
         {
         "id": 10,
         "company": "The Air Filter Company",
-        "logo": "/public/assets/the-air-filter-company.svg",
+        "logo": "/assets/the-air-filter-company.svg",
         "new": false,
         "featured": false,
         "position": "Front-end Dev",
